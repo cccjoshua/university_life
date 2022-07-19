@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cccjoshua.github.io/university_life/sitemap.xml
